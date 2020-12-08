@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+.italic {
+  font-style: italic;
+}
+.subtitle {
+  font-size: 15px;
+  font-style: italic;
+  color: grey;
+  margin-bottom: 10px;
+}
+.lightblue {
+  color: lightblue;
+}
+.red {
+    color: red;
+}
+.faded {
+    opacity: 0.2;
+}
+.faded:hover {
+    opacity: 0.5;
+}
+.pointer {
+  cursor: pointer !important;
+}
+.padding10 {
+  padding: 10px !important;
+}
+.text-danger {
+  color: red !important;
+}
+
+.github-button-container {
+  position: relative;
+  top: 14px;
+  margin-left: 5px;
+}
